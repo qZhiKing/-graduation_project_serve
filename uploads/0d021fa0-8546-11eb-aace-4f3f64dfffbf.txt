@@ -1,0 +1,3 @@
+git check -b login  创建并跳进分支
+
+git  branch 查看分支
